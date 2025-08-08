@@ -1,6 +1,6 @@
 <h1 align="left">Rafael S. Cazetto</h1>
 
-<p align="left"><strong>Formado no Curso técnico em Desenvolvimento de Sistemas.</strong></p>
+<p align="left"><strong>🧑‍💻 Formado no Curso técnico em Desenvolvimento de Sistemas.</strong></p>
 
 ---
 
@@ -14,7 +14,7 @@ Atualmente, estou aprofundando meus conhecimentos em <strong>Back-end</strong> e
 
 ---
 
-<h3 align="center">Tecnologias mais usadas</h3>
+<h3 align="center">🖥️ Tecnologias mais usadas</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
@@ -28,9 +28,18 @@ Atualmente, estou aprofundando meus conhecimentos em <strong>Back-end</strong> e
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
 </div>
 
+<br></br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sandei-RC&locale=pt-br&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sandei-RC&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2&custom_title=%F0%9F%9A%80%20Linguagens%20mais%20utilizadas" height="200" alt="languages graph"  />
+</div>
+
+<br></br>
+
 ---
 
-<h3 align="center">Contato</h3>
+<h3 align="center">📭 Contato</h3>
 
 <div align="center" style="display: flex; gap: 20px; justify-content: center;">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"  />
