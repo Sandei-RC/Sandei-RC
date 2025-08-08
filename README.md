@@ -38,11 +38,3 @@ Atualmente, estou aprofundando meus conhecimentos em <strong>Back-end</strong> e
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="telegram logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
 </div>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandei-RC/Sandei-RC/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sandei-RC/Sandei-RC/output/pacman-contribution-graph.svg" />
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sandei-RC/Sandei-RC/output/pacman-contribution-graph.svg" style="display: block; margin: 0 auto;" />
-</picture>
